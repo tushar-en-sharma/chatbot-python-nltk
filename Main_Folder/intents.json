@@ -1,0 +1,12 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up"],
+         "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?"],
+         "context_set": ""
+        },
+        {"tag": "Enter_any_tag_here",
+         "patterns": ["write all possible question related to thet tag specified"],
+         'responses": ["write all possible answers related to thet tag specified"],
+         }
+         ]
+}         
